@@ -1,0 +1,27 @@
+[
+  {
+    "id": "late1",
+    "measurement": "wheel",
+    "text": "原1.2更正为0.12，限值仍为0.1，样品和部件不变。",
+    "refs": [
+      "wheel"
+    ]
+  },
+  {
+    "id": "late2",
+    "consultation": "ask1",
+    "text": "反光不足的不要；如果没有实测结果也请直接告诉我。",
+    "refs": [
+      "ask1"
+    ]
+  },
+  {
+    "id": "late3",
+    "consultation": "ask2",
+    "text": "上面云帆小号指bag4。",
+    "refs": [
+      "ask2",
+      "bag4"
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "ask1",
+    "text": "孩子每天要爬四层楼，不能用拉杆，想要轻的；晚上走无路灯小巷，反光有没有实测？最在意安全。",
+    "hard_preferences": [
+      "不用拉杆"
+    ],
+    "soft_preferences": [
+      "轻便",
+      "反光证据"
+    ]
+  },
+  {
+    "id": "ask2",
+    "text": "我说的是云帆小号，不是大号。缝合不合格的是哪一款？",
+    "hard_preferences": [],
+    "soft_preferences": [
+      "缝合证据"
+    ]
+  },
+  {
+    "id": "ask3",
+    "text": "要最轻的，同时所有项目都得有实测合格证明。",
+    "hard_preferences": [
+      "所有项目实测合格"
+    ],
+    "soft_preferences": [
+      "最轻"
+    ]
+  }
+]

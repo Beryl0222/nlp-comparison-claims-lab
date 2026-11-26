@@ -1,0 +1,119 @@
+[
+  {
+    "id": "bag1-fabric",
+    "sample": "bag1",
+    "part": "面料",
+    "item": "甲醛",
+    "outcome": "符合限值",
+    "value": 4,
+    "unit": "mg/kg",
+    "limit": 20,
+    "refs": [
+      "bag1"
+    ]
+  },
+  {
+    "id": "bag2-fabric",
+    "sample": "bag2",
+    "part": "面料",
+    "item": "甲醛",
+    "outcome": "符合限值",
+    "value": 4,
+    "unit": "mg/kg",
+    "limit": 20,
+    "refs": [
+      "bag2"
+    ]
+  },
+  {
+    "id": "bag3-fabric",
+    "sample": "bag3",
+    "part": "面料",
+    "item": "甲醛",
+    "outcome": "符合限值",
+    "value": 4,
+    "unit": "mg/kg",
+    "limit": 20,
+    "refs": [
+      "bag3"
+    ]
+  },
+  {
+    "id": "bag4-fabric",
+    "sample": "bag4",
+    "part": "面料",
+    "item": "甲醛",
+    "outcome": "符合限值",
+    "value": 4,
+    "unit": "mg/kg",
+    "limit": 20,
+    "refs": [
+      "bag4"
+    ]
+  },
+  {
+    "id": "bag5-fabric",
+    "sample": "bag5",
+    "part": "面料",
+    "item": "甲醛",
+    "outcome": "符合限值",
+    "value": 4,
+    "unit": "mg/kg",
+    "limit": 20,
+    "refs": [
+      "bag5"
+    ]
+  },
+  {
+    "id": "wheel",
+    "sample": "bag2",
+    "part": "粉色轮子",
+    "item": "增塑剂",
+    "outcome": "超过限值",
+    "value": 1.2,
+    "limit": 0.1,
+    "unit": "试验单位",
+    "refs": [
+      "bag2"
+    ]
+  },
+  {
+    "id": "seam",
+    "sample": "bag3",
+    "part": "提手接缝",
+    "item": "缝合强度",
+    "outcome": "不符合",
+    "value": 65,
+    "limit": 100,
+    "unit": "试验单位",
+    "refs": [
+      "bag3"
+    ]
+  },
+  {
+    "id": "reflect",
+    "sample": "bag1",
+    "part": "反光条",
+    "item": "反射性能",
+    "outcome": "未测",
+    "value": null,
+    "limit": null,
+    "unit": "试验单位",
+    "refs": [
+      "bag1"
+    ]
+  },
+  {
+    "id": "reflect2",
+    "sample": "bag4",
+    "part": "反光条",
+    "item": "反射性能",
+    "outcome": "符合试验阈值",
+    "value": 160,
+    "limit": 100,
+    "unit": "试验单位",
+    "refs": [
+      "bag4"
+    ]
+  }
+]

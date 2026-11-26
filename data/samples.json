@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bag1",
+    "name": "青芽轻行",
+    "type": "双肩",
+    "variant": "小号",
+    "mass_g": 470
+  },
+  {
+    "id": "bag2",
+    "name": "青芽轻行",
+    "type": "拉杆",
+    "variant": "小号",
+    "mass_g": 1480
+  },
+  {
+    "id": "bag3",
+    "name": "云帆",
+    "type": "双肩",
+    "variant": "大号",
+    "mass_g": 680
+  },
+  {
+    "id": "bag4",
+    "name": "云帆",
+    "type": "双肩",
+    "variant": "小号",
+    "mass_g": 510
+  },
+  {
+    "id": "bag5",
+    "name": "晨路",
+    "type": "双肩",
+    "variant": "小号",
+    "mass_g": 430
+  }
+]
